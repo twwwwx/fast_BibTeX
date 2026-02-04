@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Fast BibTeX",
   "version": "0.1.0",
-  "description": "Fetch BibTeX from Google Scholar for the first result.",
+  "description": "Grab BibTeX from Google Scholar for a paper title and copy it in one click.",
   "permissions": ["tabs", "scripting", "clipboardWrite"],
   "host_permissions": [
     "https://scholar.google.com/*",
