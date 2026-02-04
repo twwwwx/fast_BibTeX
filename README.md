@@ -1,4 +1,4 @@
-# fast BibTeX
+# Fast BibTeX
 
 <p>
   <img src="extension/icon128.png" alt="fast BibTeX icon" width="96" />
@@ -19,7 +19,7 @@ Summary: A Chrome extension that turns a paper title into a BibTeX entry from Go
 
 - ⚡ One click = BibTeX in your clipboard
 - 🧠 Minimal UI, no distractions
-- 📚 Built for paper-heavy workflows
+- 📚 Built for academic writing
 
 
 ## 🧩 Install the extension
