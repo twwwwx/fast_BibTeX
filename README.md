@@ -9,6 +9,8 @@
 Lightning-fast BibTeX, straight from Google Scholar.  
 Type a reference, click once, and your clipboard is ready to paste.
 
+Summary: A Chrome extension that turns a paper title into a BibTeX entry from Google Scholar and copies it to your clipboard.
+
 ## ✨ Why you'll like it
 
 - ⚡ One click = BibTeX in your clipboard
@@ -18,9 +20,10 @@ Type a reference, click once, and your clipboard is ready to paste.
 
 ## 🧩 Install the extension
 
-1. Open `chrome://extensions`
-2. Enable "Developer mode"
-3. Click "Load unpacked"
+1. Download the repo and unzip it
+1. Open `chrome://extensions` web page using chrome
+2. Enable "Developer mode" at the top right
+3. Click "Load unpacked" at the top left
 4. Select the `extension/` folder in this project
 
 ## 🚀 Use it
