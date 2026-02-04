@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "fast BibTeX",
+  "version": "0.1.0",
+  "description": "Fetch BibTeX from Google Scholar for the first result.",
+  "permissions": ["tabs", "scripting", "clipboardWrite"],
+  "host_permissions": [
+    "https://scholar.google.com/*",
+    "https://scholar.googleusercontent.com/*"
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "action": {
+    "default_title": "fast BibTeX",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "32": "icon32.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
