@@ -14,4 +14,4 @@ The extension accesses Google Scholar to retrieve citation data. Your use of
 Google Scholar is subject to Google’s terms and privacy policy.
 
 ## Contact
-If you have questions about this privacy policy, contact: [your-email@example.com]
+If you have questions about this privacy policy, contact: [w1229w@126.com]
