@@ -1,6 +1,10 @@
 # fast BibTeX
 
 <p>
+  <img src="extension/icon128.png" alt="fast BibTeX icon" width="96" />
+</p>
+
+<p>
   <img alt="Chrome Extension" src="https://img.shields.io/badge/Chrome-Extension-1e3a8a?logo=googlechrome&logoColor=white" />
   <img alt="Clipboard" src="https://img.shields.io/badge/Clipboard-Ready-0f766e" />
   <img alt="Google Scholar" src="https://img.shields.io/badge/Google-Scholar-4285F4?logo=googlescholar&logoColor=white" />
